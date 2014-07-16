@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="nonbreakingspace"/><!-- NO-BREAK SPACE -->
+      <map code="0x1b00" name="uni1B00"/><!-- BALINESE SIGN ULU RICEM -->
+      <map code="0x1b01" name="uni1B01"/><!-- BALINESE SIGN ULU CANDRA -->
+      <map code="0x1b02" name="uni1B02"/><!-- BALINESE SIGN CECEK -->
+      <map code="0x1b03" name="uni1B03"/><!-- BALINESE SIGN SURANG -->
+      <map code="0x1b04" name="uni1B04"/><!-- BALINESE SIGN BISAH -->
+      <map code="0x1b05" name="uni1B05"/><!-- BALINESE LETTER AKARA -->
+      <map code="0x1b06" name="uni1B06"/><!-- BALINESE LETTER AKARA TEDUNG -->
+      <map code="0x1b07" name="uni1B07"/><!-- BALINESE LETTER IKARA -->
+      <map code="0x1b08" name="uni1B08"/><!-- BALINESE LETTER IKARA TEDUNG -->
+      <map code="0x1b09" name="uni1B09"/><!-- BALINESE LETTER UKARA -->
+      <map code="0x1b0a" name="uni1B0A"/><!-- BALINESE LETTER UKARA TEDUNG -->
+      <map code="0x1b0b" name="uni1B0B"/><!-- BALINESE LETTER RA REPA -->
+      <map code="0x1b0c" name="uni1B0C"/><!-- BALINESE LETTER RA REPA TEDUNG -->
+      <map code="0x1b0d" name="uni1B0D"/><!-- BALINESE LETTER LA LENGA -->
+      <map code="0x1b0e" name="uni1B0E"/><!-- BALINESE LETTER LA LENGA TEDUNG -->
+      <map code="0x1b0f" name="uni1B0F"/><!-- BALINESE LETTER EKARA -->
+      <map code="0x1b10" name="uni1B10"/><!-- BALINESE LETTER AIKARA -->
+      <map code="0x1b11" name="uni1B11"/><!-- BALINESE LETTER OKARA -->
+      <map code="0x1b12" name="uni1B12"/><!-- BALINESE LETTER OKARA TEDUNG -->
+      <map code="0x1b13" name="uni1B13"/><!-- BALINESE LETTER KA -->
+      <map code="0x1b14" name="uni1B14"/><!-- BALINESE LETTER KA MAHAPRANA -->
+      <map code="0x1b15" name="uni1B15"/><!-- BALINESE LETTER GA -->
+      <map code="0x1b16" name="uni1B16"/><!-- BALINESE LETTER GA GORA -->
+      <map code="0x1b17" name="uni1B17"/><!-- BALINESE LETTER NGA -->
+      <map code="0x1b18" name="uni1B18"/><!-- BALINESE LETTER CA -->
+      <map code="0x1b19" name="uni1B19"/><!-- BALINESE LETTER CA LACA -->
+      <map code="0x1b1a" name="uni1B1A"/><!-- BALINESE LETTER JA -->
+      <map code="0x1b1b" name="uni1B1B"/><!-- BALINESE LETTER JA JERA -->
+      <map code="0x1b1c" name="uni1B1C"/><!-- BALINESE LETTER NYA -->
+      <map code="0x1b1d" name="uni1B1D"/><!-- BALINESE LETTER TA LATIK -->
+      <map code="0x1b1e" name="uni1B1E"/><!-- BALINESE LETTER TA MURDA MAHAPRANA -->
+      <map code="0x1b1f" name="uni1B1F"/><!-- BALINESE LETTER DA MURDA ALPAPRANA -->
+      <map code="0x1b20" name="uni1B20"/><!-- BALINESE LETTER DA MURDA MAHAPRANA -->
+      <map code="0x1b21" name="uni1B21"/><!-- BALINESE LETTER NA RAMBAT -->
+      <map code="0x1b22" name="uni1B22"/><!-- BALINESE LETTER TA -->
+      <map code="0x1b23" name="uni1B23"/><!-- BALINESE LETTER TA TAWA -->
+      <map code="0x1b24" name="uni1B24"/><!-- BALINESE LETTER DA -->
+      <map code="0x1b25" name="uni1B25"/><!-- BALINESE LETTER DA MADU -->
+      <map code="0x1b26" name="uni1B26"/><!-- BALINESE LETTER NA -->
+      <map code="0x1b27" name="uni1B27"/><!-- BALINESE LETTER PA -->
+      <map code="0x1b28" name="uni1B28"/><!-- BALINESE LETTER PA KAPAL -->
+      <map code="0x1b29" name="uni1B29"/><!-- BALINESE LETTER BA -->
+      <map code="0x1b2a" name="uni1B2A"/><!-- BALINESE LETTER BA KEMBANG -->
+      <map code="0x1b2b" name="uni1B2B"/><!-- BALINESE LETTER MA -->
+      <map code="0x1b2c" name="uni1B2C"/><!-- BALINESE LETTER YA -->
+      <map code="0x1b2d" name="uni1B2D"/><!-- BALINESE LETTER RA -->
+      <map code="0x1b2e" name="uni1B2E"/><!-- BALINESE LETTER LA -->
+      <map code="0x1b2f" name="uni1B2F"/><!-- BALINESE LETTER WA -->
+      <map code="0x1b30" name="uni1B30"/><!-- BALINESE LETTER SA SAGA -->
+      <map code="0x1b31" name="uni1B31"/><!-- BALINESE LETTER SA SAPA -->
+      <map code="0x1b32" name="uni1B32"/><!-- BALINESE LETTER SA -->
+      <map code="0x1b33" name="uni1B33"/><!-- BALINESE LETTER HA -->
+      <map code="0x1b34" name="uni1B34"/><!-- BALINESE SIGN REREKAN -->
+      <map code="0x1b35" name="uni1B35"/><!-- BALINESE VOWEL SIGN TEDUNG -->
+      <map code="0x1b36" name="uni1B36"/><!-- BALINESE VOWEL SIGN ULU -->
+      <map code="0x1b37" name="uni1B37"/><!-- BALINESE VOWEL SIGN ULU SARI -->
+      <map code="0x1b38" name="uni1B38"/><!-- BALINESE VOWEL SIGN SUKU -->
+      <map code="0x1b39" name="uni1B39"/><!-- BALINESE VOWEL SIGN SUKU ILUT -->
+      <map code="0x1b3a" name="uni1B3A"/><!-- BALINESE VOWEL SIGN RA REPA -->
+      <map code="0x1b3b" name="uni1B3B"/><!-- BALINESE VOWEL SIGN RA REPA TEDUNG -->
+      <map code="0x1b3c" name="uni1B3C"/><!-- BALINESE VOWEL SIGN LA LENGA -->
+      <map code="0x1b3d" name="uni1B3D"/><!-- BALINESE VOWEL SIGN LA LENGA TEDUNG -->
+      <map code="0x1b3e" name="uni1B3E"/><!-- BALINESE VOWEL SIGN TALING -->
+      <map code="0x1b3f" name="uni1B3F"/><!-- BALINESE VOWEL SIGN TALING REPA -->
+      <map code="0x1b40" name="uni1B40"/><!-- BALINESE VOWEL SIGN TALING TEDUNG -->
+      <map code="0x1b41" name="uni1B41"/><!-- BALINESE VOWEL SIGN TALING REPA TEDUNG -->
+      <map code="0x1b42" name="uni1B42"/><!-- BALINESE VOWEL SIGN PEPET -->
+      <map code="0x1b43" name="uni1B43"/><!-- BALINESE VOWEL SIGN PEPET TEDUNG -->
+      <map code="0x1b44" name="uni1B44"/><!-- BALINESE ADEG ADEG -->
+      <map code="0x1b45" name="uni1B45"/><!-- BALINESE LETTER KAF SASAK -->
+      <map code="0x1b46" name="uni1B46"/><!-- BALINESE LETTER KHOT SASAK -->
+      <map code="0x1b47" name="uni1B47"/><!-- BALINESE LETTER TZIR SASAK -->
+      <map code="0x1b48" name="uni1B48"/><!-- BALINESE LETTER EF SASAK -->
+      <map code="0x1b49" name="uni1B49"/><!-- BALINESE LETTER VE SASAK -->
+      <map code="0x1b4a" name="uni1B4A"/><!-- BALINESE LETTER ZAL SASAK -->
+      <map code="0x1b4b" name="uni1B4B"/><!-- BALINESE LETTER ASYURA SASAK -->
+      <map code="0x1b50" name="uni1B50"/><!-- BALINESE DIGIT ZERO -->
+      <map code="0x1b51" name="uni1B51"/><!-- BALINESE DIGIT ONE -->
+      <map code="0x1b52" name="uni1B52"/><!-- BALINESE DIGIT TWO -->
+      <map code="0x1b53" name="uni1B53"/><!-- BALINESE DIGIT THREE -->
+      <map code="0x1b54" name="uni1B54"/><!-- BALINESE DIGIT FOUR -->
+      <map code="0x1b55" name="uni1B55"/><!-- BALINESE DIGIT FIVE -->
+      <map code="0x1b56" name="uni1B56"/><!-- BALINESE DIGIT SIX -->
+      <map code="0x1b57" name="uni1B57"/><!-- BALINESE DIGIT SEVEN -->
+      <map code="0x1b58" name="uni1B58"/><!-- BALINESE DIGIT EIGHT -->
+      <map code="0x1b59" name="uni1B59"/><!-- BALINESE DIGIT NINE -->
+      <map code="0x1b5a" name="uni1B5A"/><!-- BALINESE PANTI -->
+      <map code="0x1b5b" name="uni1B5B"/><!-- BALINESE PAMADA -->
+      <map code="0x1b5c" name="uni1B5C"/><!-- BALINESE WINDU -->
+      <map code="0x1b5d" name="uni1B5D"/><!-- BALINESE CARIK PAMUNGKAH -->
+      <map code="0x1b5e" name="uni1B5E"/><!-- BALINESE CARIK SIKI -->
+      <map code="0x1b5f" name="uni1B5F"/><!-- BALINESE CARIK PAREREN -->
+      <map code="0x1b60" name="uni1B60"/><!-- BALINESE PAMENENG -->
+      <map code="0x1b61" name="uni1B61"/><!-- BALINESE MUSICAL SYMBOL DONG -->
+      <map code="0x1b62" name="uni1B62"/><!-- BALINESE MUSICAL SYMBOL DENG -->
+      <map code="0x1b63" name="uni1B63"/><!-- BALINESE MUSICAL SYMBOL DUNG -->
+      <map code="0x1b64" name="uni1B64"/><!-- BALINESE MUSICAL SYMBOL DANG -->
+      <map code="0x1b65" name="uni1B65"/><!-- BALINESE MUSICAL SYMBOL DANG SURANG -->
+      <map code="0x1b66" name="uni1B66"/><!-- BALINESE MUSICAL SYMBOL DING -->
+      <map code="0x1b67" name="uni1B67"/><!-- BALINESE MUSICAL SYMBOL DAENG -->
+      <map code="0x1b68" name="uni1B68"/><!-- BALINESE MUSICAL SYMBOL DEUNG -->
+      <map code="0x1b69" name="uni1B69"/><!-- BALINESE MUSICAL SYMBOL DAING -->
+      <map code="0x1b6a" name="uni1B6A"/><!-- BALINESE MUSICAL SYMBOL DANG GEDE -->
+      <map code="0x1b6b" name="uni1B6B"/><!-- BALINESE MUSICAL SYMBOL COMBINING TEGEH -->
+      <map code="0x1b6c" name="uni1B6C"/><!-- BALINESE MUSICAL SYMBOL COMBINING ENDEP -->
+      <map code="0x1b6d" name="uni1B6D"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPUL -->
+      <map code="0x1b6e" name="uni1B6E"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPLI -->
+      <map code="0x1b6f" name="uni1B6F"/><!-- BALINESE MUSICAL SYMBOL COMBINING JEGOGAN -->
+      <map code="0x1b70" name="uni1B70"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN -->
+      <map code="0x1b71" name="uni1B71"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN -->
+      <map code="0x1b72" name="uni1B72"/><!-- BALINESE MUSICAL SYMBOL COMBINING BENDE -->
+      <map code="0x1b73" name="uni1B73"/><!-- BALINESE MUSICAL SYMBOL COMBINING GONG -->
+      <map code="0x1b74" name="uni1B74"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG -->
+      <map code="0x1b75" name="uni1B75"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG -->
+      <map code="0x1b76" name="uni1B76"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK -->
+      <map code="0x1b77" name="uni1B77"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK -->
+      <map code="0x1b78" name="uni1B78"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG -->
+      <map code="0x1b79" name="uni1B79"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG -->
+      <map code="0x1b7a" name="uni1B7A"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK -->
+      <map code="0x1b7b" name="uni1B7B"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK -->
+      <map code="0x1b7c" name="uni1B7C"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+    </cmap_format_4>
+    <cmap_format_6 platformID="1" platEncID="0" language="0">
+      <map code="0x0" name=".null"/>
+      <map code="0x1" name=".notdef"/>
+      <map code="0x2" name=".notdef"/>
+      <map code="0x3" name=".notdef"/>
+      <map code="0x4" name=".notdef"/>
+      <map code="0x5" name=".notdef"/>
+      <map code="0x6" name=".notdef"/>
+      <map code="0x7" name=".notdef"/>
+      <map code="0x8" name=".null"/>
+      <map code="0x9" name="nonmarkingreturn"/>
+      <map code="0xa" name=".notdef"/>
+      <map code="0xb" name=".notdef"/>
+      <map code="0xc" name=".notdef"/>
+      <map code="0xd" name="nonmarkingreturn"/>
+      <map code="0xe" name=".notdef"/>
+      <map code="0xf" name=".notdef"/>
+      <map code="0x10" name=".notdef"/>
+      <map code="0x11" name=".notdef"/>
+      <map code="0x12" name=".notdef"/>
+      <map code="0x13" name=".notdef"/>
+      <map code="0x14" name=".notdef"/>
+      <map code="0x15" name=".notdef"/>
+      <map code="0x16" name=".notdef"/>
+      <map code="0x17" name=".notdef"/>
+      <map code="0x18" name=".notdef"/>
+      <map code="0x19" name=".notdef"/>
+      <map code="0x1a" name=".notdef"/>
+      <map code="0x1b" name=".notdef"/>
+      <map code="0x1c" name=".notdef"/>
+      <map code="0x1d" name=".null"/>
+      <map code="0x1e" name=".notdef"/>
+      <map code="0x1f" name=".notdef"/>
+      <map code="0x20" name="space"/>
+      <map code="0x21" name=".notdef"/>
+      <map code="0x22" name="quotedbl"/>
+      <map code="0x23" name=".notdef"/>
+      <map code="0x24" name=".notdef"/>
+      <map code="0x25" name=".notdef"/>
+      <map code="0x26" name=".notdef"/>
+      <map code="0x27" name="quotesingle"/>
+      <map code="0x28" name="parenleft"/>
+      <map code="0x29" name="parenright"/>
+      <map code="0x2a" name="asterisk"/>
+      <map code="0x2b" name="plus"/>
+      <map code="0x2c" name=".notdef"/>
+      <map code="0x2d" name="hyphen"/>
+      <map code="0x2e" name=".notdef"/>
+      <map code="0x2f" name="slash"/>
+      <map code="0x30" name=".notdef"/>
+      <map code="0x31" name=".notdef"/>
+      <map code="0x32" name=".notdef"/>
+      <map code="0x33" name=".notdef"/>
+      <map code="0x34" name=".notdef"/>
+      <map code="0x35" name=".notdef"/>
+      <map code="0x36" name=".notdef"/>
+      <map code="0x37" name=".notdef"/>
+      <map code="0x38" name=".notdef"/>
+      <map code="0x39" name=".notdef"/>
+      <map code="0x3a" name=".notdef"/>
+      <map code="0x3b" name=".notdef"/>
+      <map code="0x3c" name=".notdef"/>
+      <map code="0x3d" name="equal"/>
+      <map code="0x3e" name=".notdef"/>
+      <map code="0x3f" name="question"/>
+      <map code="0x40" name="at"/>
+      <map code="0x41" name=".notdef"/>
+      <map code="0x42" name=".notdef"/>
+      <map code="0x43" name=".notdef"/>
+      <map code="0x44" name=".notdef"/>
+      <map code="0x45" name=".notdef"/>
+      <map code="0x46" name=".notdef"/>
+      <map code="0x47" name=".notdef"/>
+      <map code="0x48" name=".notdef"/>
+      <map code="0x49" name=".notdef"/>
+      <map code="0x4a" name=".notdef"/>
+      <map code="0x4b" name=".notdef"/>
+      <map code="0x4c" name=".notdef"/>
+      <map code="0x4d" name=".notdef"/>
+      <map code="0x4e" name=".notdef"/>
+      <map code="0x4f" name=".notdef"/>
+      <map code="0x50" name=".notdef"/>
+      <map code="0x51" name=".notdef"/>
+      <map code="0x52" name=".notdef"/>
+      <map code="0x53" name=".notdef"/>
+      <map code="0x54" name=".notdef"/>
+      <map code="0x55" name=".notdef"/>
+      <map code="0x56" name=".notdef"/>
+      <map code="0x57" name=".notdef"/>
+      <map code="0x58" name=".notdef"/>
+      <map code="0x59" name=".notdef"/>
+      <map code="0x5a" name=".notdef"/>
+      <map code="0x5b" name=".notdef"/>
+      <map code="0x5c" name=".notdef"/>
+      <map code="0x5d" name=".notdef"/>
+      <map code="0x5e" name=".notdef"/>
+      <map code="0x5f" name=".notdef"/>
+      <map code="0x60" name=".notdef"/>
+      <map code="0x61" name=".notdef"/>
+      <map code="0x62" name=".notdef"/>
+      <map code="0x63" name=".notdef"/>
+      <map code="0x64" name=".notdef"/>
+      <map code="0x65" name=".notdef"/>
+      <map code="0x66" name=".notdef"/>
+      <map code="0x67" name=".notdef"/>
+      <map code="0x68" name=".notdef"/>
+      <map code="0x69" name=".notdef"/>
+      <map code="0x6a" name=".notdef"/>
+      <map code="0x6b" name=".notdef"/>
+      <map code="0x6c" name=".notdef"/>
+      <map code="0x6d" name=".notdef"/>
+      <map code="0x6e" name=".notdef"/>
+      <map code="0x6f" name=".notdef"/>
+      <map code="0x70" name=".notdef"/>
+      <map code="0x71" name=".notdef"/>
+      <map code="0x72" name=".notdef"/>
+      <map code="0x73" name=".notdef"/>
+      <map code="0x74" name=".notdef"/>
+      <map code="0x75" name=".notdef"/>
+      <map code="0x76" name=".notdef"/>
+      <map code="0x77" name=".notdef"/>
+      <map code="0x78" name=".notdef"/>
+      <map code="0x79" name=".notdef"/>
+      <map code="0x7a" name=".notdef"/>
+      <map code="0x7b" name=".notdef"/>
+      <map code="0x7c" name="bar"/>
+      <map code="0x7d" name=".notdef"/>
+      <map code="0x7e" name="asciitilde"/>
+      <map code="0x7f" name=".notdef"/>
+      <map code="0x80" name=".notdef"/>
+      <map code="0x81" name=".notdef"/>
+      <map code="0x82" name=".notdef"/>
+      <map code="0x83" name=".notdef"/>
+      <map code="0x84" name=".notdef"/>
+      <map code="0x85" name=".notdef"/>
+      <map code="0x86" name=".notdef"/>
+      <map code="0x87" name=".notdef"/>
+      <map code="0x88" name=".notdef"/>
+      <map code="0x89" name=".notdef"/>
+      <map code="0x8a" name=".notdef"/>
+      <map code="0x8b" name=".notdef"/>
+      <map code="0x8c" name=".notdef"/>
+      <map code="0x8d" name=".notdef"/>
+      <map code="0x8e" name=".notdef"/>
+      <map code="0x8f" name=".notdef"/>
+      <map code="0x90" name=".notdef"/>
+      <map code="0x91" name=".notdef"/>
+      <map code="0x92" name=".notdef"/>
+      <map code="0x93" name=".notdef"/>
+      <map code="0x94" name=".notdef"/>
+      <map code="0x95" name=".notdef"/>
+      <map code="0x96" name=".notdef"/>
+      <map code="0x97" name=".notdef"/>
+      <map code="0x98" name=".notdef"/>
+      <map code="0x99" name=".notdef"/>
+      <map code="0x9a" name=".notdef"/>
+      <map code="0x9b" name=".notdef"/>
+      <map code="0x9c" name=".notdef"/>
+      <map code="0x9d" name=".notdef"/>
+      <map code="0x9e" name=".notdef"/>
+      <map code="0x9f" name=".notdef"/>
+      <map code="0xa0" name=".notdef"/>
+      <map code="0xa1" name=".notdef"/>
+      <map code="0xa2" name=".notdef"/>
+      <map code="0xa3" name=".notdef"/>
+      <map code="0xa4" name=".notdef"/>
+      <map code="0xa5" name=".notdef"/>
+      <map code="0xa6" name=".notdef"/>
+      <map code="0xa7" name=".notdef"/>
+      <map code="0xa8" name=".notdef"/>
+      <map code="0xa9" name=".notdef"/>
+      <map code="0xaa" name=".notdef"/>
+      <map code="0xab" name=".notdef"/>
+      <map code="0xac" name=".notdef"/>
+      <map code="0xad" name=".notdef"/>
+      <map code="0xae" name=".notdef"/>
+      <map code="0xaf" name=".notdef"/>
+      <map code="0xb0" name=".notdef"/>
+      <map code="0xb1" name=".notdef"/>
+      <map code="0xb2" name=".notdef"/>
+      <map code="0xb3" name=".notdef"/>
+      <map code="0xb4" name=".notdef"/>
+      <map code="0xb5" name=".notdef"/>
+      <map code="0xb6" name=".notdef"/>
+      <map code="0xb7" name=".notdef"/>
+      <map code="0xb8" name=".notdef"/>
+      <map code="0xb9" name=".notdef"/>
+      <map code="0xba" name=".notdef"/>
+      <map code="0xbb" name=".notdef"/>
+      <map code="0xbc" name=".notdef"/>
+      <map code="0xbd" name=".notdef"/>
+      <map code="0xbe" name=".notdef"/>
+      <map code="0xbf" name=".notdef"/>
+      <map code="0xc0" name=".notdef"/>
+      <map code="0xc1" name=".notdef"/>
+      <map code="0xc2" name=".notdef"/>
+      <map code="0xc3" name=".notdef"/>
+      <map code="0xc4" name=".notdef"/>
+      <map code="0xc5" name=".notdef"/>
+      <map code="0xc6" name=".notdef"/>
+      <map code="0xc7" name=".notdef"/>
+      <map code="0xc8" name=".notdef"/>
+      <map code="0xc9" name=".notdef"/>
+      <map code="0xca" name="space"/>
+    </cmap_format_6>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="nonbreakingspace"/><!-- NO-BREAK SPACE -->
+      <map code="0x1b00" name="uni1B00"/><!-- BALINESE SIGN ULU RICEM -->
+      <map code="0x1b01" name="uni1B01"/><!-- BALINESE SIGN ULU CANDRA -->
+      <map code="0x1b02" name="uni1B02"/><!-- BALINESE SIGN CECEK -->
+      <map code="0x1b03" name="uni1B03"/><!-- BALINESE SIGN SURANG -->
+      <map code="0x1b04" name="uni1B04"/><!-- BALINESE SIGN BISAH -->
+      <map code="0x1b05" name="uni1B05"/><!-- BALINESE LETTER AKARA -->
+      <map code="0x1b06" name="uni1B06"/><!-- BALINESE LETTER AKARA TEDUNG -->
+      <map code="0x1b07" name="uni1B07"/><!-- BALINESE LETTER IKARA -->
+      <map code="0x1b08" name="uni1B08"/><!-- BALINESE LETTER IKARA TEDUNG -->
+      <map code="0x1b09" name="uni1B09"/><!-- BALINESE LETTER UKARA -->
+      <map code="0x1b0a" name="uni1B0A"/><!-- BALINESE LETTER UKARA TEDUNG -->
+      <map code="0x1b0b" name="uni1B0B"/><!-- BALINESE LETTER RA REPA -->
+      <map code="0x1b0c" name="uni1B0C"/><!-- BALINESE LETTER RA REPA TEDUNG -->
+      <map code="0x1b0d" name="uni1B0D"/><!-- BALINESE LETTER LA LENGA -->
+      <map code="0x1b0e" name="uni1B0E"/><!-- BALINESE LETTER LA LENGA TEDUNG -->
+      <map code="0x1b0f" name="uni1B0F"/><!-- BALINESE LETTER EKARA -->
+      <map code="0x1b10" name="uni1B10"/><!-- BALINESE LETTER AIKARA -->
+      <map code="0x1b11" name="uni1B11"/><!-- BALINESE LETTER OKARA -->
+      <map code="0x1b12" name="uni1B12"/><!-- BALINESE LETTER OKARA TEDUNG -->
+      <map code="0x1b13" name="uni1B13"/><!-- BALINESE LETTER KA -->
+      <map code="0x1b14" name="uni1B14"/><!-- BALINESE LETTER KA MAHAPRANA -->
+      <map code="0x1b15" name="uni1B15"/><!-- BALINESE LETTER GA -->
+      <map code="0x1b16" name="uni1B16"/><!-- BALINESE LETTER GA GORA -->
+      <map code="0x1b17" name="uni1B17"/><!-- BALINESE LETTER NGA -->
+      <map code="0x1b18" name="uni1B18"/><!-- BALINESE LETTER CA -->
+      <map code="0x1b19" name="uni1B19"/><!-- BALINESE LETTER CA LACA -->
+      <map code="0x1b1a" name="uni1B1A"/><!-- BALINESE LETTER JA -->
+      <map code="0x1b1b" name="uni1B1B"/><!-- BALINESE LETTER JA JERA -->
+      <map code="0x1b1c" name="uni1B1C"/><!-- BALINESE LETTER NYA -->
+      <map code="0x1b1d" name="uni1B1D"/><!-- BALINESE LETTER TA LATIK -->
+      <map code="0x1b1e" name="uni1B1E"/><!-- BALINESE LETTER TA MURDA MAHAPRANA -->
+      <map code="0x1b1f" name="uni1B1F"/><!-- BALINESE LETTER DA MURDA ALPAPRANA -->
+      <map code="0x1b20" name="uni1B20"/><!-- BALINESE LETTER DA MURDA MAHAPRANA -->
+      <map code="0x1b21" name="uni1B21"/><!-- BALINESE LETTER NA RAMBAT -->
+      <map code="0x1b22" name="uni1B22"/><!-- BALINESE LETTER TA -->
+      <map code="0x1b23" name="uni1B23"/><!-- BALINESE LETTER TA TAWA -->
+      <map code="0x1b24" name="uni1B24"/><!-- BALINESE LETTER DA -->
+      <map code="0x1b25" name="uni1B25"/><!-- BALINESE LETTER DA MADU -->
+      <map code="0x1b26" name="uni1B26"/><!-- BALINESE LETTER NA -->
+      <map code="0x1b27" name="uni1B27"/><!-- BALINESE LETTER PA -->
+      <map code="0x1b28" name="uni1B28"/><!-- BALINESE LETTER PA KAPAL -->
+      <map code="0x1b29" name="uni1B29"/><!-- BALINESE LETTER BA -->
+      <map code="0x1b2a" name="uni1B2A"/><!-- BALINESE LETTER BA KEMBANG -->
+      <map code="0x1b2b" name="uni1B2B"/><!-- BALINESE LETTER MA -->
+      <map code="0x1b2c" name="uni1B2C"/><!-- BALINESE LETTER YA -->
+      <map code="0x1b2d" name="uni1B2D"/><!-- BALINESE LETTER RA -->
+      <map code="0x1b2e" name="uni1B2E"/><!-- BALINESE LETTER LA -->
+      <map code="0x1b2f" name="uni1B2F"/><!-- BALINESE LETTER WA -->
+      <map code="0x1b30" name="uni1B30"/><!-- BALINESE LETTER SA SAGA -->
+      <map code="0x1b31" name="uni1B31"/><!-- BALINESE LETTER SA SAPA -->
+      <map code="0x1b32" name="uni1B32"/><!-- BALINESE LETTER SA -->
+      <map code="0x1b33" name="uni1B33"/><!-- BALINESE LETTER HA -->
+      <map code="0x1b34" name="uni1B34"/><!-- BALINESE SIGN REREKAN -->
+      <map code="0x1b35" name="uni1B35"/><!-- BALINESE VOWEL SIGN TEDUNG -->
+      <map code="0x1b36" name="uni1B36"/><!-- BALINESE VOWEL SIGN ULU -->
+      <map code="0x1b37" name="uni1B37"/><!-- BALINESE VOWEL SIGN ULU SARI -->
+      <map code="0x1b38" name="uni1B38"/><!-- BALINESE VOWEL SIGN SUKU -->
+      <map code="0x1b39" name="uni1B39"/><!-- BALINESE VOWEL SIGN SUKU ILUT -->
+      <map code="0x1b3a" name="uni1B3A"/><!-- BALINESE VOWEL SIGN RA REPA -->
+      <map code="0x1b3b" name="uni1B3B"/><!-- BALINESE VOWEL SIGN RA REPA TEDUNG -->
+      <map code="0x1b3c" name="uni1B3C"/><!-- BALINESE VOWEL SIGN LA LENGA -->
+      <map code="0x1b3d" name="uni1B3D"/><!-- BALINESE VOWEL SIGN LA LENGA TEDUNG -->
+      <map code="0x1b3e" name="uni1B3E"/><!-- BALINESE VOWEL SIGN TALING -->
+      <map code="0x1b3f" name="uni1B3F"/><!-- BALINESE VOWEL SIGN TALING REPA -->
+      <map code="0x1b40" name="uni1B40"/><!-- BALINESE VOWEL SIGN TALING TEDUNG -->
+      <map code="0x1b41" name="uni1B41"/><!-- BALINESE VOWEL SIGN TALING REPA TEDUNG -->
+      <map code="0x1b42" name="uni1B42"/><!-- BALINESE VOWEL SIGN PEPET -->
+      <map code="0x1b43" name="uni1B43"/><!-- BALINESE VOWEL SIGN PEPET TEDUNG -->
+      <map code="0x1b44" name="uni1B44"/><!-- BALINESE ADEG ADEG -->
+      <map code="0x1b45" name="uni1B45"/><!-- BALINESE LETTER KAF SASAK -->
+      <map code="0x1b46" name="uni1B46"/><!-- BALINESE LETTER KHOT SASAK -->
+      <map code="0x1b47" name="uni1B47"/><!-- BALINESE LETTER TZIR SASAK -->
+      <map code="0x1b48" name="uni1B48"/><!-- BALINESE LETTER EF SASAK -->
+      <map code="0x1b49" name="uni1B49"/><!-- BALINESE LETTER VE SASAK -->
+      <map code="0x1b4a" name="uni1B4A"/><!-- BALINESE LETTER ZAL SASAK -->
+      <map code="0x1b4b" name="uni1B4B"/><!-- BALINESE LETTER ASYURA SASAK -->
+      <map code="0x1b50" name="uni1B50"/><!-- BALINESE DIGIT ZERO -->
+      <map code="0x1b51" name="uni1B51"/><!-- BALINESE DIGIT ONE -->
+      <map code="0x1b52" name="uni1B52"/><!-- BALINESE DIGIT TWO -->
+      <map code="0x1b53" name="uni1B53"/><!-- BALINESE DIGIT THREE -->
+      <map code="0x1b54" name="uni1B54"/><!-- BALINESE DIGIT FOUR -->
+      <map code="0x1b55" name="uni1B55"/><!-- BALINESE DIGIT FIVE -->
+      <map code="0x1b56" name="uni1B56"/><!-- BALINESE DIGIT SIX -->
+      <map code="0x1b57" name="uni1B57"/><!-- BALINESE DIGIT SEVEN -->
+      <map code="0x1b58" name="uni1B58"/><!-- BALINESE DIGIT EIGHT -->
+      <map code="0x1b59" name="uni1B59"/><!-- BALINESE DIGIT NINE -->
+      <map code="0x1b5a" name="uni1B5A"/><!-- BALINESE PANTI -->
+      <map code="0x1b5b" name="uni1B5B"/><!-- BALINESE PAMADA -->
+      <map code="0x1b5c" name="uni1B5C"/><!-- BALINESE WINDU -->
+      <map code="0x1b5d" name="uni1B5D"/><!-- BALINESE CARIK PAMUNGKAH -->
+      <map code="0x1b5e" name="uni1B5E"/><!-- BALINESE CARIK SIKI -->
+      <map code="0x1b5f" name="uni1B5F"/><!-- BALINESE CARIK PAREREN -->
+      <map code="0x1b60" name="uni1B60"/><!-- BALINESE PAMENENG -->
+      <map code="0x1b61" name="uni1B61"/><!-- BALINESE MUSICAL SYMBOL DONG -->
+      <map code="0x1b62" name="uni1B62"/><!-- BALINESE MUSICAL SYMBOL DENG -->
+      <map code="0x1b63" name="uni1B63"/><!-- BALINESE MUSICAL SYMBOL DUNG -->
+      <map code="0x1b64" name="uni1B64"/><!-- BALINESE MUSICAL SYMBOL DANG -->
+      <map code="0x1b65" name="uni1B65"/><!-- BALINESE MUSICAL SYMBOL DANG SURANG -->
+      <map code="0x1b66" name="uni1B66"/><!-- BALINESE MUSICAL SYMBOL DING -->
+      <map code="0x1b67" name="uni1B67"/><!-- BALINESE MUSICAL SYMBOL DAENG -->
+      <map code="0x1b68" name="uni1B68"/><!-- BALINESE MUSICAL SYMBOL DEUNG -->
+      <map code="0x1b69" name="uni1B69"/><!-- BALINESE MUSICAL SYMBOL DAING -->
+      <map code="0x1b6a" name="uni1B6A"/><!-- BALINESE MUSICAL SYMBOL DANG GEDE -->
+      <map code="0x1b6b" name="uni1B6B"/><!-- BALINESE MUSICAL SYMBOL COMBINING TEGEH -->
+      <map code="0x1b6c" name="uni1B6C"/><!-- BALINESE MUSICAL SYMBOL COMBINING ENDEP -->
+      <map code="0x1b6d" name="uni1B6D"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPUL -->
+      <map code="0x1b6e" name="uni1B6E"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPLI -->
+      <map code="0x1b6f" name="uni1B6F"/><!-- BALINESE MUSICAL SYMBOL COMBINING JEGOGAN -->
+      <map code="0x1b70" name="uni1B70"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN -->
+      <map code="0x1b71" name="uni1B71"/><!-- BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN -->
+      <map code="0x1b72" name="uni1B72"/><!-- BALINESE MUSICAL SYMBOL COMBINING BENDE -->
+      <map code="0x1b73" name="uni1B73"/><!-- BALINESE MUSICAL SYMBOL COMBINING GONG -->
+      <map code="0x1b74" name="uni1B74"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG -->
+      <map code="0x1b75" name="uni1B75"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG -->
+      <map code="0x1b76" name="uni1B76"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK -->
+      <map code="0x1b77" name="uni1B77"/><!-- BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK -->
+      <map code="0x1b78" name="uni1B78"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG -->
+      <map code="0x1b79" name="uni1B79"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG -->
+      <map code="0x1b7a" name="uni1B7A"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK -->
+      <map code="0x1b7b" name="uni1B7B"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK -->
+      <map code="0x1b7c" name="uni1B7C"/><!-- BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

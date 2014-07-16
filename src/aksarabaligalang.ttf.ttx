@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="aksarabaligalang.ttf.GlyphOrder.ttx"/>
+  <head src="aksarabaligalang.ttf._h_e_a_d.ttx"/>
+  <hhea src="aksarabaligalang.ttf._h_h_e_a.ttx"/>
+  <maxp src="aksarabaligalang.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="aksarabaligalang.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="aksarabaligalang.ttf._h_m_t_x.ttx"/>
+  <LTSH src="aksarabaligalang.ttf.L_T_S_H_.ttx"/>
+  <VDMX src="aksarabaligalang.ttf.V_D_M_X_.ttx"/>
+  <hdmx src="aksarabaligalang.ttf._h_d_m_x.ttx"/>
+  <cmap src="aksarabaligalang.ttf._c_m_a_p.ttx"/>
+  <fpgm src="aksarabaligalang.ttf._f_p_g_m.ttx"/>
+  <prep src="aksarabaligalang.ttf._p_r_e_p.ttx"/>
+  <cvt src="aksarabaligalang.ttf._c_v_t.ttx"/>
+  <loca src="aksarabaligalang.ttf._l_o_c_a.ttx"/>
+  <glyf src="aksarabaligalang.ttf._g_l_y_f.ttx"/>
+  <kern src="aksarabaligalang.ttf._k_e_r_n.ttx"/>
+  <name src="aksarabaligalang.ttf._n_a_m_e.ttx"/>
+  <post src="aksarabaligalang.ttf._p_o_s_t.ttx"/>
+  <gasp src="aksarabaligalang.ttf._g_a_s_p.ttx"/>
+  <PCLT src="aksarabaligalang.ttf.P_C_L_T_.ttx"/>
+  <GPOS src="aksarabaligalang.ttf.G_P_O_S_.ttx"/>
+</ttFont>
