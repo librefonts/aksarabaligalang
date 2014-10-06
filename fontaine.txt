@@ -1,0 +1,66 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Bali Galang
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2008 by Bemby Bantara Narendra and Made Suatjana. All rights reserved.
+    Version: Version 1.000 2008 initial release
+    Vendor: Bemby Bantara Narendra and Made Suatjana
+    Vendor url: http://www.babadbali.com/
+    Designer: Bemby Bantara Narendra and Made Suatjana
+    Designer url: http://aksarabali.wordpress.com/
+    Glyph count: 251
+    Character count: 137
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 6
+  Font:
+    Common name: Aksara Bali Galang
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2008-2012, Bemby Bantara Narendra (bembybantara@gmail.com), Copyright (c) 2008-2012, I MadÃ© Suatjana (62-361-427520)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001 2012 web release
+    Vendor: Bemby Bantara Narendra and Made Suatjana
+    Vendor url: http://www.babadbali.com/
+    Designer: Bemby Bantara Narendra and Made Suatjana
+    Designer url: http://aksarabali.wordpress.com/
+    Glyph count: 251
+    Character count: 137
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 6
